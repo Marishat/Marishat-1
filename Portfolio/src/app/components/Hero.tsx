@@ -47,6 +47,7 @@ export default function Hero() {
           <div className="cap-echo one" />
           <div className="badge-float bf1">🎓 CGPA 3.73</div>
           <div className="badge-float bf2">📄 Published researcher</div>
+          <div className="badge-float bf3">🧪 Software Testing</div>
           <div className="capsule">
             {/* Drop your photo at public/profile.jpg — it fills this capsule automatically */}
             <img
