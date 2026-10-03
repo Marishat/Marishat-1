@@ -8,7 +8,7 @@ export default function Footer() {
           <i key={c} style={{ background: c }} />
         ))}
       </div>
-      Designed by © {new Date().getFullYear()} <b>Marishat Tasmim</b>
+      Designed by © {new Date().getFullYear()} <b>Marishat Tasmim And Shihab</b>
     </footer>
   );
 }
